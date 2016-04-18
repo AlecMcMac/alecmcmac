@@ -1,11 +1,20 @@
 @media screen and (min-width: 480px) {
-    body {
-        background: navy;
-    }
+/*Two Column Layout*/
+#primary {
+    width: 50%;
+    float: left;
+}
+
+#secondary {
+    width: 40%;
+    float: right;
+}
+/* Portfolio*/
+#gallery li {
+    width:28.33333%;
+}
 }
 @media screen and (min-width: 660px) {
-    body {
-        background: darkgreen;
-    }
+    
     
 }
