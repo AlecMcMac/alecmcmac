@@ -142,8 +142,7 @@ nav a {
     margin: 0 0 10px;
 }
 #link {
-    color: red;
-    margin: 0;
+  
     padding: 0;
     list-style: none;
     
@@ -152,6 +151,15 @@ nav a {
     
     float: left;
     width: 25%;
+    margin 2.5%;  
+}
+#link2 {
+    padding: 0;
+    list-style: none:
+}
+
+#link2 li {
+    float: right;
+    width: 25%;
     margin 2.5%;
-    
 }
